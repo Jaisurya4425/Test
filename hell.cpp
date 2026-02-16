@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-it main()
+int main()
 {
 	cout << "Hello C++";
 }
+
