@@ -2,5 +2,4 @@
 void main()
 {
 	Printf("Hello vinux terminal");
-	printf("Welcome to Github");
 }
